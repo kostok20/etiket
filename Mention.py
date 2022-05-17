@@ -30,11 +30,11 @@ async def cancel(event):
 
 @client.on(events.NewMessage(pattern="^/start$"))
 async def start(event):
-  await event.reply("●** SELAM ❤️**\n\n● **𒆜𝖘𝖔𝖍𝖇𝖊𝖙 𝖘̧𝖊𝖍𝖗𝖎 GRUBU İÇİN ÖZEL OLARAK TASARLANMIŞ ETİKETLEME BOTUYUM . . !** \n\n● **NASIL ÇALIŞTIĞIMI ÖĞRENMEK İÇİN LÜTFEN  /help YAZIN  . . !**",
+  await event.reply("●** SELAM ❤️**\n\n● **  GRUPLARDA ÜCRETSİZ ETİKETLEME BOTUYUM . . !** \n\n● **NASIL ÇALIŞTIĞIMI ÖĞRENMEK İÇİN LÜTFEN  /help YAZIN  . . !**",
                     buttons=(
                    
-		      [Button.url('🎉  Beni Gruba Ekle  🎉', 'https://t.me/StarTaggerBot?startgroup=a')],
-                      [Button.url('😎  SAHİBİM  😎', 'https://t.me/IIlIlllIIIIIIlIlllII')],
+		      [Button.url('🎉  Beni Gruba Ekle  🎉', 'https://t.me/BugsBunyEtiket_bot?startgroup=a')],
+                      [Button.url('😎  SAHİBİM  😎', 'https://t.me/kostok20')],
                       
                     ),
                     link_preview=False
@@ -44,8 +44,8 @@ async def help(event):
   helptext = "📝 **ETİKET KOMUTLARI **\n\n**» /utag < MESAJINIZ > \nGRUPTAKİ KULLANICILARI 5'Lİ ETİKET ATAR .  .  !**\n\n**» /tag  < MESAJINIZ > \nGRUPTAKİ KULLANICILARI TEK TEK ETİKET ATAR . . !**\n\n**» /cancel => ETİKETLEME İŞLEMİNİ DURDURUR . . !**"
   await event.reply(helptext,
                     buttons=(
-                      [Button.url('🎉  Beni Gruba Ekle  🎉', 'https://t.me/StarTaggerBot?startgroup=a')],
-                      [Button.url('😎  SAHİBİM  😎', 'https://t.me/IIlIlllIIIIIIlIlllII')],
+                      [Button.url('🎉  Beni Gruba Ekle  🎉', 'https://t.me/BugsBunyEtiket_bot?startgroup=a')],
+                      [Button.url('😎  SAHİBİM  😎', 'https://t.me/kostok20')],
                     ),
                     link_preview=False
                    )
@@ -55,7 +55,7 @@ async def help(event):
   helptext = "**📝 ETİKET KOMUTLARI **\n\n**» /utag < MESAJINIZ > \nGRUPTAKİ KULLANICILARI 5'Lİ ETİKET ATAR .  .  !**\n\n**» /tag  < MESAJINIZ > \nGRUPTAKİ KULLANICILARI TEK TEK ETİKET ATAR . . !**\n\n**» /cancel => ETİKETLEME İŞLEMİNİ DURDURUR . . !**"
   await event.reply(helptext,
                     buttons=(
-                      [Button.url('🎉  𝗕𝗼𝘁𝘂 𝗚𝗿𝘂𝗯𝗮 𝗘𝗸𝗹𝗲  🎉', 'https://t.me/StarTaggerBot?startgroup=a')],
+                      [Button.url('🎉  𝗕𝗼𝘁𝘂 𝗚𝗿𝘂𝗯𝗮 𝗘𝗸𝗹𝗲  🎉', 'https://t.me/BugsBunyEtiket_bot?startgroup=a')],
                     ),
                     link_preview=False
                    )
