@@ -1,7 +1,7 @@
 {
-  "name": "Star Tagger Bot",
-  "logo":"https://telegra.ph/file/133b9125da464d1db6fca.jpg",
-  "description": "Star Tagger ÜCRETSİZ ŞEKILDE GRUBUNUZDA ÜYELERI ETIKETLEYE BILIR.",
+  "name": "ᏴႮᏀՏ ᏴႮΝΝᎽ ETİKET",
+  "logo":"https://telegra.ph//file/849fda7ed632a6147e85a.jpg",
+  "description": "ᏴႮᏀՏ ᏴႮΝΝᎽ ETİKET ÜCRETSİZ ŞEKILDE GRUBUNUZDA ÜYELERI ETIKETLEYE BILIR.",
   "env": {
     "TOKEN": {
       "description": "@botfather Telegram ile bottan al yap Token (Gerekli)",
