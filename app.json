@@ -5,7 +5,7 @@
   "env": {
     "TOKEN": {
       "description": "@botfather Telegram ile bottan al yap Token (Gerekli)",
-      "value": "5373010489:AAH8oRAwYgD2ZjN5tNulm-144zBHM32dtA"
+      "value": "5373010489:AAH8oRAwYgD2ZjN5tNuIm-144zBHM327dtA"
     },
     "APP_ID": {
       "description": " my.telegram.org Sitesinden geliştirici ayarlarından al (Gerekli)",
