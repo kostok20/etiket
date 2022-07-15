@@ -34,7 +34,7 @@ async def start(event):
                     buttons=(
                    
 		      [Button.url('🎉  Beni Gruba Ekle  🎉', 'https://t.me/BugsBunyEtiket_bot?startgroup=a')],
-                      [Button.url('😎  SAHİBİM  😎', 'https://t.me/slmBATU')],
+                      [Button.url('😎  🅱🅰🆃🆄  😎', 'https://t.me/slmBATU')],
                       
                     ),
                     link_preview=False
@@ -45,7 +45,7 @@ async def help(event):
   await event.reply(helptext,
                     buttons=(
                       [Button.url('🎉  Beni Gruba Ekle  🎉', 'https://t.me/BugsBunyEtiket_bot?startgroup=a')],
-                      [Button.url('😎  SAHİBİM  😎', 'https://t.me/slmBATU')],
+                      [Button.url('😎  🅱🅰🆃🆄  😎', 'https://t.me/slmBATU')],
                     ),
                     link_preview=False
                    )
